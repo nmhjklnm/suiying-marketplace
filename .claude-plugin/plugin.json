@@ -1,0 +1,9 @@
+{
+  "name": "suiying",
+  "version": "0.1.0",
+  "description": "Personal development toolkit - my preferred configs, workflows, and best practices",
+  "author": {
+    "name": "apple"
+  },
+  "keywords": ["personal", "workflow", "config", "best-practices"]
+}
